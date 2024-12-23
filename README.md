@@ -19,8 +19,7 @@ This is a simple, responsive weather application that fetches real-time weather 
 
 ## 📹 Credit
 This project was inspired by the following YouTube tutorial:  
-[**Build a Weather App**][(https://www.youtube.com/your-video-link)](https://youtu.be/2jjR-iGxVYM?si=o8L318bZWmtgnKIR)
-> Replace `your-video-link` with the actual link to the video you followed.
+[**Build a Weather App**][(https://youtu.be/2jjR-iGxVYM?si=o8L318bZWmtgnKIR)]
 
 Special thanks to the creator of the video for providing step-by-step guidance!
 
